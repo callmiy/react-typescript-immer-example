@@ -17,7 +17,7 @@
     "env-cmd": "^10.1.0",
     "immer": "^6.0.3",
     "lodash": "^4.17.15",
-    "node-sass": "^4.14.0",
+    "node-sass": "^7.0.0",
     "nps": "^5.9.12",
     "react": "^16.13.1",
     "react-app-rewire-hot-loader": "^2.0.1",
